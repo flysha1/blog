@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-daebf7a4","path":"/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/npm/","title":"Npm","lang":"zh-CN","frontmatter":{"title":"Npm","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};
